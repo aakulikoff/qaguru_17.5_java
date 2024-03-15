@@ -17,7 +17,6 @@ public class HomeWork {
         System.out.println("a++ = " + (a++));
         System.out.println("a-- = " + (a--));
 
-
         // логические операторы
         int c = 2;
         int d = 5;
@@ -27,7 +26,6 @@ public class HomeWork {
         System.out.println("c >= e = " + (c >= d));
         System.out.println("c <= e = " + (c <= d));
         System.out.println("c != e = " + (c != d));
-
 
         //переполнения при вычислениях
         byte byteVar = 127;
@@ -40,6 +38,5 @@ public class HomeWork {
         double varDouble = 36.8;
         System.out.println( "varInt + varDouble: " + (varInt + varDouble));
         System.out.println("varInt - varDouble: " + (varInt - varDouble));
-
     }
 }
